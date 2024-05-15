@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\FileLister\FileLister\bin\Debug\FileLister.exe.config
+C:\Users\DELL\source\repos\FileLister\FileLister\bin\Debug\FileLister.exe
+C:\Users\DELL\source\repos\FileLister\FileLister\bin\Debug\FileLister.pdb
+C:\Users\DELL\source\repos\FileLister\FileLister\obj\Debug\FileLister.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\FileLister\FileLister\obj\Debug\FileLister.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FileLister\FileLister\obj\Debug\FileLister.exe
+C:\Users\DELL\source\repos\FileLister\FileLister\obj\Debug\FileLister.pdb
